@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Aditya Goswami</h1>
-<h3 align="center">As an aspiring software engineer with a deep passion for technology, I am keenly focused on the intersection of software development and technological business management. My enthusiasm lies in leveraging cutting-edge technology to drive business innovation and efficiency.</h3>
+<h3 align="center">As an aspiring software engineer with a deep passion for technology, I am keenly focused on the intersection of software development and IT business management. My enthusiasm lies in leveraging cutting-edge technology to drive business innovation and efficiency.</h3>
 
 - 🔭 I’m currently pursuing BSC (Computer Science) degree at the **University of British Columbia.**
 
